@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Uno game.sln"
+    "dotnet.defaultSolution": "Uno-Unity.sln"
 }
